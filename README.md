@@ -3,10 +3,21 @@
 Hi there! I’m a passionate software developer with a keen interest in creating efficient and elegant code. Here’s a bit about me:
 
 ### 🔧 Skills & Tools
-- **Languages**: TypeScript. JavaScript.
-- **Frameworks/Libraries**: Vue.js, Nuxt.js, React, Next.js.
-- **DevOps**: Docker, GitHub Actions, and AWS Amplify.
-- **Others**: Experience with Prisma, Zod, and Vitest for robust backend and testing.
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=bmthd&show_icons=true&locale=en&layout=compact)
+
+#### Languages
+
+<img src="https://skillicons.dev/icons?i=js,typescript,html,css," /> <br /><br />
+
+#### Frameworks/Libraries
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,nodejs,pnpm,bun,vite,vitest,jest,prisma,tailwind,vuetify,threejs," /> <br /><br />
+
+## DB and Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=graphql,mysql,postgresql,supabase,docker,git,github,vscode,cloudflare,vercel,linux,aws,azure," /> <br /><br />
+
 
 ### 🚀 Current Projects
 - Building a **Dragon Quest-inspired portfolio website** using React, TanStack Router, and Tailwind CSS.
