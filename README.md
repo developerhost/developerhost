@@ -24,22 +24,22 @@ Hi there! I’m a passionate software developer with a keen interest in creating
 [![](https://zenn.badge.nikaera.com/s/dirtyman/articles?style=plastic)](https://zenn.dev/dirtyman/articles)
 [![](https://zenn.badge.nikaera.com/s/dirtyman/likes?style=plastic)](https://zenn.dev/dirtyman)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developerhost&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developerhost&theme=tokyonight)
 
 <p align="left">
 <a href="https://github.com/developerhost">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=developerhost&count_private=true&show_icons=true&theme=dracula" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=developerhost&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 </p>
 
 <p align="left">
 <a href="https://github.com/developerhost">
-  <img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=developerhost&count_private=true&show_icons=true&theme=dracula" />
+  <img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=developerhost&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 </p>
 
 <p align="left">
 <a href="https://github.com/developerhost">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerhost&layout=compact&theme=dracula" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerhost&layout=compact&theme=tokyonight" />
 </a>
 </p>
