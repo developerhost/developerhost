@@ -4,7 +4,7 @@
   <a href="https://github.com/developerhost/developerhost/">
     <img src="https://komarev.com/ghpvc/?username=developerhost" alt="developerhost" />
   </a>
-  <a href="https://github.com/yutkat">
+  <a href="https://github.com/developerhost">
     <img height="20" src="https://img.shields.io/github/followers/developerhost?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/app_js">
