@@ -1,4 +1,6 @@
-## Hi there I am developer👋
+### 👋 Welcome to My GitHub Profile!
+
+Hi there! I’m a passionate software developer with a keen interest in creating efficient and elegant code. Here’s a bit about me:
 
 <p align="left">
   <a href="https://github.com/developerhost/developerhost/">
@@ -31,17 +33,12 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developerhost&theme=dracula)
 
-<!--
-**developerhost/developerhost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Skills & Tools
+- **Languages**: TypeScript. JavaScript.
+- **Frameworks/Libraries**: Vue.js, Nuxt.js, React, Next.js.
+- **DevOps**: Docker, GitHub Actions, and AWS Amplify.
+- **Others**: Experience with Prisma, Zod, and Vitest for robust backend and testing.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Projects
+- Building a **Dragon Quest-inspired portfolio website** using React, TanStack Router, and Tailwind CSS.
+- Working on a **T3 stack project** with a focus on clean architecture and efficient data fetching.
