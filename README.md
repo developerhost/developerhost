@@ -16,8 +16,6 @@ Hi there! I’m a passionate software developer with a keen interest in creating
 
 ## 🔧 Skills & Tools
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=bmthd&show_icons=true&locale=en&layout=compact)
-
 ### Languages
 
 <img src="https://skillicons.dev/icons?i=js,typescript,html,css," /> <br /><br />
