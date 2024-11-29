@@ -10,7 +10,6 @@ Hi there! I’m a passionate software developer with a keen interest in creating
 ](http://qiita.com/app_js)
 [![](https://qiita-badge.apiapi.app/s/app_js/contributions.svg)
 ](http://qiita.com/app_js)
-[![]()]()
 [![](https://zenn.badge.nikaera.com/s/dirtyman/articles?style=plastic)](https://zenn.dev/dirtyman/articles)
 [![](https://zenn.badge.nikaera.com/s/dirtyman/likes?style=plastic)](https://zenn.dev/dirtyman)
 
