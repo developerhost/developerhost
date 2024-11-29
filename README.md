@@ -1,4 +1,4 @@
-### 👋 Welcome to My GitHub Profile!
+## 👋 Welcome to My GitHub Profile!
 
 Hi there! I’m a passionate software developer with a keen interest in creating efficient and elegant code. Here’s a bit about me:
 
@@ -14,24 +14,24 @@ Hi there! I’m a passionate software developer with a keen interest in creating
 [![](https://zenn.badge.nikaera.com/s/dirtyman/articles?style=plastic)](https://zenn.dev/dirtyman/articles)
 [![](https://zenn.badge.nikaera.com/s/dirtyman/likes?style=plastic)](https://zenn.dev/dirtyman)
 
-### 🔧 Skills & Tools
+## 🔧 Skills & Tools
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=bmthd&show_icons=true&locale=en&layout=compact)
 
-#### Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=js,typescript,html,css," /> <br /><br />
 
-#### Frameworks/Libraries
+### Frameworks/Libraries
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,nodejs,pnpm,bun,vite,vitest,jest,prisma,tailwind,vuetify,threejs," /> <br /><br />
 
-## DB and Dev Tools etc
+### DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=graphql,mysql,postgresql,supabase,docker,git,github,vscode,cloudflare,vercel,linux,aws,azure," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,docker,git,github,vscode,cloudflare,vercel,linux,aws,azure,graphql," /> <br /><br />
 
 
-### 🚀 Current Projects
+## 🚀 Current Projects
 - Building a **Dragon Quest-inspired portfolio website** using React, TanStack Router, and Tailwind CSS.
 - Working on a **T3 stack project** with a focus on clean architecture and efficient data fetching.
 
