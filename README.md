@@ -2,6 +2,18 @@
 
 Hi there! I’m a passionate software developer with a keen interest in creating efficient and elegant code. Here’s a bit about me:
 
+[ ![developerhost](https://komarev.com/ghpvc/?username=developerhost)
+](https://github.com/developerhost/developerhost/)
+[![](https://img.shields.io/github/followers/developerhost?label=follow&logo=github&style=flat)
+](https://github.com/developerhost)
+[![](https://qiita-badge.apiapi.app/s/miwashutaro0611/posts.svg)
+](http://qiita.com/app_js)
+[![](https://qiita-badge.apiapi.app/s/miwashutaro0611/contributions.svg)
+](http://qiita.com/app_js)
+[![]()]()
+[![](https://zenn.badge.nikaera.com/s/dirtyman/articles?style=plastic)](https://zenn.dev/dirtyman/articles)
+[![](https://zenn.badge.nikaera.com/s/dirtyman/likes?style=plastic)](https://zenn.dev/dirtyman)
+
 ### 🔧 Skills & Tools
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=bmthd&show_icons=true&locale=en&layout=compact)
@@ -22,18 +34,6 @@ Hi there! I’m a passionate software developer with a keen interest in creating
 ### 🚀 Current Projects
 - Building a **Dragon Quest-inspired portfolio website** using React, TanStack Router, and Tailwind CSS.
 - Working on a **T3 stack project** with a focus on clean architecture and efficient data fetching.
-
-[ ![developerhost](https://komarev.com/ghpvc/?username=developerhost)
-](https://github.com/developerhost/developerhost/)
-[![](https://img.shields.io/github/followers/developerhost?label=follow&logo=github&style=flat)
-](https://github.com/developerhost)
-[![](https://qiita-badge.apiapi.app/s/miwashutaro0611/posts.svg)
-](http://qiita.com/app_js)
-[![](https://qiita-badge.apiapi.app/s/miwashutaro0611/contributions.svg)
-](http://qiita.com/app_js)
-[![]()]()
-[![](https://zenn.badge.nikaera.com/s/dirtyman/articles?style=plastic)](https://zenn.dev/dirtyman/articles)
-[![](https://zenn.badge.nikaera.com/s/dirtyman/likes?style=plastic)](https://zenn.dev/dirtyman)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developerhost&theme=tokyonight)
 
