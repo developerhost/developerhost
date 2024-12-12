@@ -2,7 +2,7 @@
 
 Hi there! I’m a passionate software developer with a keen interest in creating efficient and elegant code. Here’s a bit about me:
 
-[ ![developerhost](https://komarev.com/ghpvc/?username=developerhost)
+[![developerhost](https://komarev.com/ghpvc/?username=developerhost)
 ](https://github.com/developerhost/developerhost/)
 [![](https://img.shields.io/github/followers/developerhost?label=follow&logo=github&style=flat)
 ](https://github.com/developerhost)
