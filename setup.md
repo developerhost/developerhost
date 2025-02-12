@@ -9,6 +9,11 @@ https://zenn.dev/ring_belle/books/mac-environment/viewer/mac-settings
 
 https://tech.findy.co.jp/entry/2025/02/10/070000
 
+mac
+
+https://dev.classmethod.jp/articles/mac-recommended-initial-settings/
+
+
 ### PowerToys
 
 developerhost/test-template
