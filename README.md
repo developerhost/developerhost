@@ -6,12 +6,6 @@ Hi there! I’m a passionate software developer with a keen interest in creating
 ](https://github.com/developerhost/developerhost/)
 [![](https://img.shields.io/github/followers/developerhost?label=follow&logo=github&style=flat)
 ](https://github.com/developerhost)
-[![](https://qiita-badge.apiapi.app/s/app_js/posts.svg)
-](http://qiita.com/app_js)
-[![](https://qiita-badge.apiapi.app/s/app_js/contributions.svg)
-](http://qiita.com/app_js)
-[![](https://zenn.badge.nikaera.com/s/dirtyman/articles?style=plastic)](https://zenn.dev/dirtyman/articles)
-[![](https://zenn.badge.nikaera.com/s/dirtyman/likes?style=plastic)](https://zenn.dev/dirtyman)
 
 ## 🔧 Skills & Tools
 
